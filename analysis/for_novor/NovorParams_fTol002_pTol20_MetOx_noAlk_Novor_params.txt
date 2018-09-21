@@ -1,0 +1,52 @@
+# Search parameters.
+
+# Enzyme
+## Only 'Trypsin' is supported currently.
+
+enzyme = Trypsin
+
+# MS2 Spectrometer
+## fragmentation can be CID or HCD
+## massAnalyzer can be Trap, TOF, or FT
+## Orbitrap instrument corresponds to CID-Trap, CID-FT, or HCD-FT
+## QTof instrument corresponds to CID-TOF.
+
+fragmentation = HCD
+massAnalyzer = FT
+
+# Mass error tolerance
+## precursorErrorTol can use both the formats of 0.1Da and 15ppm
+## fragmentIonErrorTol only supports the format 0.1Da in current version
+
+fragmentIonErrorTol = 0.02Da
+precursorErrorTol = 20ppm
+
+# PTM
+## Variable modifications will make algorithm consider both modified and the original residue
+## Fixed modifications will turn off the unmodified residue from consideration
+## A comma-delimited list of IDs can be used here.
+## See http://rapidnovor.com/wiki/Built-in_PTMs for a list of built-in PTMs and their IDs
+
+variableModifications = Oxidation (M)
+## fixedModifications = Carbamidomethyl (C)
+
+# Forbidden residues
+## It is suggested to disable residue I because it is the same as L
+## The 21st amino acid U should be disabled too because it is so rare that adding
+## it to de novo sequencing will cause many more false positives than true positives.
+
+forbiddenResidues = I,U
+
+# Customized algorithm parameters
+## The novorFile parameter is for the most advanced users only.
+## Novor uses advanced machine learning algorithms to learn patterns from existing data,
+## and utilizes those patterns in its de novo sequencing. These patterns are described by
+## thousands of parameters and stored in a .novor file.
+## By default, one of the built-in .novor files will be chosen by the algorithm
+## according to fragmentation and massAnalyzer. This should be sufficient for most users.
+## However, because of the inevitable deviation in the data caused by the instruments and
+## labs procedures, more advanced users may want to contact rapidnovor.com to train a
+## customized .novor file for their specific instrument and lab procedure. This usually will
+## further improve Novor's accuracy on data produced specifically in their labs.
+
+# novorFile = external.novor

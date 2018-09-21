@@ -1,0 +1,593 @@
+<phyloxml xmlns="http://www.phyloxml.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <clade>
+      <name>Inner53</name>
+      <branch_length>0.0</branch_length>
+      <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+      <clade>
+        <name>Inner51</name>
+        <branch_length>0.00646877748229</branch_length>
+        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+        <clade>
+          <name>Inner49</name>
+          <branch_length>0.0104285492548</branch_length>
+          <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+          <clade>
+            <name>Inner48</name>
+            <branch_length>0.00321866566932</branch_length>
+            <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+            <clade>
+              <name>Inner44</name>
+              <branch_length>0.0147435463332</branch_length>
+              <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+              <clade>
+                <name>Inner43</name>
+                <branch_length>0.00628180731407</branch_length>
+                <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                <clade>
+                  <name>Gamma-proteobacteria</name>
+                  <branch_length>0.0579205393847</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Gamma-proteobacteria</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Gamma-proteobacteria</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Gamma-proteobacteria</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Gamma-proteobacteria</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Gamma-proteobacteria</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Gamma-proteobacteria</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation_background_color" ref="A:1">m</property>
+                  <clade>
+                    <name>Inner31</name>
+                    <branch_length>0.0198191338149</branch_length>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                    <clade>
+                      <name>Inner18</name>
+                      <branch_length>0.0486122605884</branch_length>
+                      <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                      <clade>
+                        <name>Inner17</name>
+                        <branch_length>0.00631454343881</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                        <clade>
+                          <name>Alcaligenes_faecalis</name>
+                          <branch_length>0.0886641367683</branch_length>
+                          <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">A.faecalis</property>
+                          <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">A.faecalis</property>
+                          <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">a:A.faecalis</property>
+                          <property applies_to="clade" datatype="xsd:string" id_ref="annotation_background_color" ref="A:1">g</property>
+                          <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">43.092204899777286</property>
+                        </clade>
+                        <clade>
+                          <name>Cupriavidus_necator</name>
+                          <branch_length>0.104148579196</branch_length>
+                          <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">52.21915367483296</property>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>Delftia_acidovorans</name>
+                        <branch_length>0.123263894709</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">58.84097995545657</property>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>Inner28</name>
+                      <branch_length>0.00905748250995</branch_length>
+                      <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                      <clade>
+                        <name>Inner26</name>
+                        <branch_length>0.0148664056176</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                        <clade>
+                          <name>Inner25</name>
+                          <branch_length>0.00785835492856</branch_length>
+                          <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                          <clade>
+                            <name>Inner20</name>
+                            <branch_length>0.0244819089184</branch_length>
+                            <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                            <clade>
+                              <name>Shewanella_oneidensis</name>
+                              <branch_length>0.0744909964946</branch_length>
+                              <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">142.06503340757237</property>
+                            </clade>
+                            <clade>
+                              <name>Citrobacter_freundii</name>
+                              <branch_length>0.080801482614</branch_length>
+                              <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">119.94031180400891</property>
+                            </clade>
+                          </clade>
+                          <clade>
+                            <name>Inner19</name>
+                            <branch_length>0.0233037000435</branch_length>
+                            <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                            <clade>
+                              <name>Pseudomonas_putida</name>
+                              <branch_length>0.0760467500624</branch_length>
+                              <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">137.0672605790646</property>
+                            </clade>
+                            <clade>
+                              <name>Inner2</name>
+                              <branch_length>0.0790799551905</branch_length>
+                              <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                              <clade>
+                                <name>Halomonas_HL-93</name>
+                                <branch_length>0.00341753121246</branch_length>
+                                <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">28.014253897550113</property>
+                              </clade>
+                              <clade>
+                                <name>Halomonas_HL-48</name>
+                                <branch_length>0.00495650926207</branch_length>
+                                <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">49.96436525612472</property>
+                              </clade>
+                            </clade>
+                          </clade>
+                        </clade>
+                        <clade>
+                          <name>Methylomicrobium_alcaliphilum</name>
+                          <branch_length>0.124590688371</branch_length>
+                          <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">213.53318485523386</property>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>Legionella_pneumophila</name>
+                        <branch_length>0.139488998292</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">77.17505567928731</property>
+                      </clade>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>Francisella_novicida</name>
+                    <branch_length>0.14997050634</branch_length>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">73.36837416481069</property>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>Inner38</name>
+                  <branch_length>0.0246793133588</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                  <clade>
+                    <name>Alpha-proteobacteria</name>
+                    <branch_length>0.06738384257</branch_length>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Alpha-proteobacteria</property>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Alpha-proteobacteria</property>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Alpha-proteobacteria</property>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Alpha-proteobacteria</property>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Alpha-proteobacteria</property>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Alpha-proteobacteria</property>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="annotation_background_color" ref="A:1">r</property>
+                    <clade>
+                      <name>Inner22</name>
+                      <branch_length>0.00722025439009</branch_length>
+                      <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                      <clade>
+                        <name>Inner16</name>
+                        <branch_length>0.0293672339138</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                        <clade>
+                          <name>Rhodopseudomonas_palustris</name>
+                          <branch_length>0.0993228857356</branch_length>
+                          <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">186.99153674832962</property>
+                        </clade>
+                        <clade>
+                          <name>Agrobacterium_tumefaciens</name>
+                          <branch_length>0.101634052063</branch_length>
+                          <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">36.914922048997774</property>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>Inner21</name>
+                        <branch_length>0.0103627283394</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                        <clade>
+                          <name>Inner8</name>
+                          <branch_length>0.0644247627914</branch_length>
+                          <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                          <clade>
+                            <name>Roseibaca_HL-91</name>
+                            <branch_length>0.0407492785208</branch_length>
+                          </clade>
+                          <clade>
+                            <name>Paracoccus_denitrificans</name>
+                            <branch_length>0.0366479817532</branch_length>
+                            <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">64.61826280623607</property>
+                          </clade>
+                        </clade>
+                        <clade>
+                          <name>Erythrobacter_HL-111</name>
+                          <branch_length>0.146200931396</branch_length>
+                          <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">51.29175946547884</property>
+                        </clade>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>Inner23</name>
+                      <branch_length>0.00139483673991</branch_length>
+                      <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                      <clade>
+                        <name>Caulobacter_crescentus</name>
+                        <branch_length>0.135839768617</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">221.45924276169265</property>
+                      </clade>
+                      <clade>
+                        <name>Acidiphilium_cryptum</name>
+                        <branch_length>0.142517921014</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">22.155902004454344</property>
+                      </clade>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>Fibrobacter_succinogenes</name>
+                    <branch_length>0.217714465002</branch_length>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">68.5184855233853</property>
+                  </clade>
+                </clade>
+              </clade>
+              <clade>
+                <name>Inner39</name>
+                <branch_length>0.0231024241497</branch_length>
+                <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                <clade>
+                  <name>Bacteroidetes</name>
+                  <branch_length>0.051011138708</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Bacteroidetes</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Bacteroidetes</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Bacteroidetes</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Bacteroidetes</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Bacteroidetes</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Bacteroidetes</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation_background_color" ref="A:1">k</property>
+                  <clade>
+                    <name>Inner3</name>
+                    <branch_length>0.0935947374245</branch_length>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                    <clade>
+                      <name>Inner1</name>
+                      <branch_length>0.0441516066544</branch_length>
+                      <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                      <clade>
+                        <name>Bacteroides_thetaiotaomicron</name>
+                        <branch_length>0.0116640356504</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">315.67305122494434</property>
+                      </clade>
+                      <clade>
+                        <name>Bacteroides_fragilis</name>
+                        <branch_length>0.00877289176326</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">339.82271714922047</property>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>Prevotella_ruminicola</name>
+                      <branch_length>0.0630913602138</branch_length>
+                      <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">32.46770601336303</property>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>Inner29</name>
+                    <branch_length>0.00663783697486</branch_length>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                    <clade>
+                      <name>Inner12</name>
+                      <branch_length>0.0437730520083</branch_length>
+                      <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                      <clade>
+                        <name>Chryseobacterium_indologenes</name>
+                        <branch_length>0.11766525351</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">35.63296213808463</property>
+                      </clade>
+                      <clade>
+                        <name>Cellulophaga_baltica</name>
+                        <branch_length>0.127898976441</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">149.630289532294</property>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>Algoriphagus_marincola</name>
+                      <branch_length>0.147046304097</branch_length>
+                      <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">67.09933184855234</property>
+                    </clade>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>Akkermansia_muciniphila</name>
+                  <branch_length>0.22403000318</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">22.04187082405345</property>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <name>Campylobacter_jejuni</name>
+              <branch_length>0.240234828687</branch_length>
+              <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">116.16926503340757</property>
+            </clade>
+          </clade>
+          <clade>
+            <name>Inner27</name>
+            <branch_length>0.0844150936615</branch_length>
+            <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+            <clade>
+              <name>Synechococcus_elongatus</name>
+              <branch_length>0.128584620485</branch_length>
+              <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">103.2097995545657</property>
+            </clade>
+            <clade>
+              <name>Cyanobacterium_stanieri</name>
+              <branch_length>0.131155639255</branch_length>
+              <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">45.474387527839646</property>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <name>Inner50</name>
+          <branch_length>0.00599592346748</branch_length>
+          <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+          <clade>
+            <name>Halanaerobium_congolense</name>
+            <branch_length>0.166699343217</branch_length>
+            <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">242.08730512249443</property>
+          </clade>
+          <clade>
+            <name>Inner47</name>
+            <branch_length>0.00932520201621</branch_length>
+            <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+            <clade>
+              <name>Inner7</name>
+              <branch_length>0.148355350679</branch_length>
+              <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+              <clade>
+                <name>Stigmatella_aurantiaca</name>
+                <branch_length>0.0248831283089</branch_length>
+                <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">78.34922048997772</property>
+              </clade>
+              <clade>
+                <name>Myxococcus_xanthus</name>
+                <branch_length>0.021312523865</branch_length>
+              </clade>
+            </clade>
+            <clade>
+              <name>Actinobacteria</name>
+              <branch_length>0.0693486445521</branch_length>
+              <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Actinobacteria</property>
+              <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Actinobacteria</property>
+              <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Actinobacteria</property>
+              <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Actinobacteria</property>
+              <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Actinobacteria</property>
+              <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Actinobacteria</property>
+              <property applies_to="clade" datatype="xsd:string" id_ref="annotation_background_color" ref="A:1">y</property>
+              <clade>
+                <name>Inner15</name>
+                <branch_length>0.0412000569106</branch_length>
+                <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                <clade>
+                  <name>Inner5</name>
+                  <branch_length>0.0685951702109</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                  <clade>
+                    <name>Streptomyces_venezuelae</name>
+                    <branch_length>0.0121640851875</branch_length>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">51.20623608017817</property>
+                  </clade>
+                  <clade>
+                    <name>Streptomyces_griseorubens</name>
+                    <branch_length>0.0136161047718</branch_length>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">20.0</property>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>Inner14</name>
+                  <branch_length>0.0107299780732</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                  <clade>
+                    <name>Inner13</name>
+                    <branch_length>0.00565156705621</branch_length>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                    <clade>
+                      <name>Cellulomonas_gilvus</name>
+                      <branch_length>0.0613845305085</branch_length>
+                      <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">153.0663697104677</property>
+                    </clade>
+                    <clade>
+                      <name>Inner11</name>
+                      <branch_length>0.0193291257992</branch_length>
+                      <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                      <clade>
+                        <name>Rhodococcus_jostii</name>
+                        <branch_length>0.0369916464389</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">74.11670378619154</property>
+                      </clade>
+                      <clade>
+                        <name>Mycobacterium_smegmatis</name>
+                        <branch_length>0.0398268443837</branch_length>
+                        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">67.19287305122495</property>
+                      </clade>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>Micrococcus_luteus</name>
+                    <branch_length>0.071155398785</branch_length>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">43.35946547884187</property>
+                  </clade>
+                </clade>
+              </clade>
+              <clade>
+                <name>Inner4</name>
+                <branch_length>0.104380694139</branch_length>
+                <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                <clade>
+                  <name>Bifidobacterium_bifidum</name>
+                  <branch_length>0.0286497551758</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">40.584409799554564</property>
+                </clade>
+                <clade>
+                  <name>Bifidobacterium_longum</name>
+                  <branch_length>0.0310210267172</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">35.36659242761693</property>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <name>Inner52</name>
+        <branch_length>0.00108679081099</branch_length>
+        <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+        <clade>
+          <name>Bacilli</name>
+          <branch_length>0.0269740150084</branch_length>
+          <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Bacilli</property>
+          <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Bacilli</property>
+          <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Bacilli</property>
+          <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Bacilli</property>
+          <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Bacilli</property>
+          <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Bacilli</property>
+          <property applies_to="clade" datatype="xsd:string" id_ref="annotation_background_color" ref="A:1">#0000ff</property>
+          <clade>
+            <name>Inner40</name>
+            <branch_length>0.0161391859516</branch_length>
+            <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+            <clade>
+              <name>Inner37</name>
+              <branch_length>0.0179822857271</branch_length>
+              <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+              <clade>
+                <name>Inner35</name>
+                <branch_length>0.0342904257658</branch_length>
+                <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                <clade>
+                  <name>Enterococcus_faecalis</name>
+                  <branch_length>0.0622735259008</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">E.faecalis</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">E.faecalis</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">E.faecalis</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="annotation_background_color" ref="A:1">g</property>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">47.59732739420935</property>
+                </clade>
+                <clade>
+                  <name>Streptococcus_agalactiae</name>
+                  <branch_length>0.0770992963988</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">34.955902004454344</property>
+                </clade>
+              </clade>
+              <clade>
+                <name>Inner36</name>
+                <branch_length>0.0246214087824</branch_length>
+                <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                <clade>
+                  <name>Inner34</name>
+                  <branch_length>0.0141417505128</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                  <clade>
+                    <name>Inner10</name>
+                    <branch_length>0.0483691602225</branch_length>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                    <clade>
+                      <name>Bacillus_subtilis_NCIB3610</name>
+                      <branch_length>0.0</branch_length>
+                      <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">179.68552338530066</property>
+                    </clade>
+                    <clade>
+                      <name>Bacillus_subtilis_168</name>
+                      <branch_length>0.0</branch_length>
+                      <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">75.58307349665924</property>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>Bacillus_cereus</name>
+                    <branch_length>0.0478912275891</branch_length>
+                    <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">135.9118040089087</property>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>Listeria_monocytogenes</name>
+                  <branch_length>0.0607960229827</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">86.98530066815145</property>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <name>Paenibacillus_polymyxa</name>
+              <branch_length>0.109077638355</branch_length>
+              <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">76.3162583518931</property>
+            </clade>
+          </clade>
+          <clade>
+            <name>Lactobacillales_casei</name>
+            <branch_length>0.17281657578</branch_length>
+            <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">35.76035634743875</property>
+          </clade>
+        </clade>
+        <clade>
+          <name>Anaerococcus_hydrogenalis</name>
+          <branch_length>0.172462562319</branch_length>
+          <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">57.70512249443207</property>
+        </clade>
+      </clade>
+      <clade>
+        <name>Clostridia</name>
+        <branch_length>0.0121181664455</branch_length>
+        <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Clostridia</property>
+        <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Clostridia</property>
+        <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Clostridia</property>
+        <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Clostridia</property>
+        <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Clostridia</property>
+        <property applies_to="clade" datatype="xsd:string" id_ref="annotation" ref="A:1">Clostridia</property>
+        <property applies_to="clade" datatype="xsd:string" id_ref="annotation_background_color" ref="A:1">g</property>
+        <clade>
+          <name>Sulfobacillus_thermosulfidooxidans</name>
+          <branch_length>0.17923064383</branch_length>
+          <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">44.1924276169265</property>
+        </clade>
+        <clade>
+          <name>Inner45</name>
+          <branch_length>0.00998288336755</branch_length>
+          <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+          <clade>
+            <name>Inner42</name>
+            <branch_length>0.00715792472101</branch_length>
+            <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+            <clade>
+              <name>Clostridium_ljungdahlii</name>
+              <branch_length>0.132308803285</branch_length>
+              <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">122.89354120267261</property>
+            </clade>
+            <clade>
+              <name>Inner9</name>
+              <branch_length>0.120224714838</branch_length>
+              <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+              <clade>
+                <name>Inner6</name>
+                <branch_length>0.0123251546196</branch_length>
+                <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">0</property>
+                <clade>
+                  <name>Dorea_formicigenerans</name>
+                  <branch_length>0.0322623113983</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">71.35233853006682</property>
+                </clade>
+                <clade>
+                  <name>Ruminococcus_gnavus</name>
+                  <branch_length>0.0285484994125</branch_length>
+                  <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">43.95011135857461</property>
+                </clade>
+              </clade>
+              <clade>
+                <name>Coprococcus_comes</name>
+                <branch_length>0.037172675952</branch_length>
+                <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">65.17416481069043</property>
+              </clade>
+            </clade>
+          </clade>
+          <clade>
+            <name>Faecalibacterium_prausnitzii</name>
+            <branch_length>0.18886517789</branch_length>
+            <property applies_to="clade" datatype="xsd:string" id_ref="clade_marker_size" ref="A:1">48.48819599109132</property>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+    <property applies_to="phylogeny" datatype="xsd:string" id_ref="leg_keys" ref="A:1">Myxococcus_xanthus_DZ2</property>
+    <property applies_to="phylogeny" datatype="xsd:string" id_ref="leg_annotation_background_color" ref="A:1">.</property>
+    <property applies_to="phylogeny" datatype="xsd:string" id_ref="leg_annotation_background_edge_color" ref="A:1">.</property>
+    <property applies_to="phylogeny" datatype="xsd:string" id_ref="leg_clade_marker_color" ref="A:1">.</property>
+    <property applies_to="phylogeny" datatype="xsd:string" id_ref="leg_clade_marker_edge_width" ref="A:1">.</property>
+    <property applies_to="phylogeny" datatype="xsd:string" id_ref="leg_clade_marker_size" ref="A:1">264.0347438752784</property>
+    <property applies_to="phylogeny" datatype="xsd:string" id_ref="leg_clade_marker_shape" ref="A:1">.</property>
+  </phylogeny>
+</phyloxml>

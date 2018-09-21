@@ -1,0 +1,1 @@
+--background_colors can be a mapping file for fixed clade-color association
