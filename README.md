@@ -26,7 +26,7 @@ $ python graphlan.py ../rplB.Tree/rplB_0.xml test.png --dpi 250 --size 7
 Please refer to [analysis/figures.ipynb](analysis/figures.ipynb).
 
 ## Figure 5
-To visualize the output results of taxonomy identification, we used the ETE Toolkit, which is another tool for analysis and aisualization of any type of trees. Please refer to [taxon_identification/fig5.ipynb](taxon_identification/fig5.ipynb).
+To visualize the output results of taxonomy identification, we used the ETE Toolkit, which is another tool for analysis and visualization of any type of trees. Please refer to [this link](http://etetoolkit.org/) for more information. You can reproduce this from this notebook [taxon_identification/fig5.ipynb](taxon_identification/fig5.ipynb).
 
 
 ## Supplemental Figures
