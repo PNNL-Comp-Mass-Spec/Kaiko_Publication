@@ -1,5 +1,5 @@
 # Kaiko_publication
-All the data and materials for the publication about the Kaiko. We have deposited here both the data and the code for various figures in the manuscript.
+All the data and materials for the publication about the Kaiko, which is a deep learning-based *de novo* peptide sequencing tool for natural bacterial isolates. We have deposited here both the data and the code for various figures in the manuscript.
 
 - Figure 1 - Bacteria represented in training and testing data.
 - Figure 2 - Accuracy of spectrum annotation.
