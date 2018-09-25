@@ -216,5 +216,5 @@ for(i in 5:length(winnersSecond)){
 }
 
 # write all the data to a file
-saveWorkbook(wb,"searchResults.xlsx")
+saveWorkbook(wb,"data4Joon.xlsx")
 
